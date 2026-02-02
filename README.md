@@ -1,18 +1,18 @@
 [![jay-sambhu's GitHub committers.top badge](https://user-badge.committers.top/nepal/jay-sambhu.svg)](https://user-badge.committers.top/nepal/jay-sambhu)
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Bobcoder0010&label=Profile%20views&color=0e75b6&style=flat" alt="if1eight0sty" />
+  <img src="https://komarev.com/ghpvc/?username=jay-sambhu&label=Profile%20views&color=0e75b6&style=flat" alt="jay-sambhu" />
 </p>
 
 <h3>
   Hi there 
-  <img src=" https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h3>
 
 <h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=I'm+Bob+The+Coder!">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=I'm+Bob+The+Coder!">
-    <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
+    <img alt="I'm Bob The Coder!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=I'm+Bob+The+Coder!">
   </picture>
 </h1>
 <h4>
@@ -22,10 +22,10 @@
 
 <img align="right" alt="Coding" width="380" height="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
-- 🔭 I’m currently working on **TapShare & A Web App**
-- 🌱 I’m currently learning **laravel,python,react**
-- 👯 I’m looking to collaborate on **react,java**
-- 🤝 I’m looking for help with **laravel**
+- 🔭 I'm currently working on **TapShare & A Web App**
+- 🌱 I'm currently learning **laravel,python,react**
+- 👯 I'm looking to collaborate on **react,java**
+- 🤝 I'm looking for help with **laravel**
 - 💬 Ask me about **HTML,css,c,**
 - 📫 How to reach me **bobmarley236789@gmail.com**
 - ⚡ Fun fact **😪😪😪**
@@ -44,4 +44,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-sambhu" alt="jay-sambhu" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-sambhu&show_icons=true&locale=en" alt="jay-sambhu" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-sambhu&show_icons=true&locale=en&layout=compact" alt="jay-sambhu" /></p>
- 
