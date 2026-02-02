@@ -51,25 +51,53 @@
 </div>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=jay-sambhu&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jay-sambhu&show_icons=true&theme=radical&hide_border=true&border_radius=8&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=jay-sambhu&theme=radical&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&card_width=400"
+    alt="GitHub Streak"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jay-sambhu&show_icons=true&theme=radical&hide_border=true&border_radius=8&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-sambhu&show_icons=true&theme=radical&layout=compact&hide_border=true&border_radius=8&langs_count=10&card_width=400" alt="Top Languages - Compact" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-sambhu&show_icons=true&theme=radical&layout=donut&hide_border=true&border_radius=8&langs_count=8" alt="Top Languages - Donut" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-sambhu&theme=radical&layout=compact&hide_border=true&border_radius=8&langs_count=10&card_width=400"
+    alt="Top Languages - Compact"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-sambhu&theme=radical&layout=donut&hide_border=true&border_radius=8&langs_count=8"
+    alt="Top Languages - Donut"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=jay-sambhu&bg_color=0d1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true&radius=8" alt="Contribution Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jay-sambhu&bg_color=0d1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true&radius=8"
+    alt="Contribution Graph"
+    width="90%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jay-sambhu&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=jay-sambhu&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=7&rank=SSS,SS,S,AAA,AA,A,B,C"
+    alt="GitHub Trophies"
+    width="95%"
+  />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"
+    width="100%"
+    alt="Footer"
+  />
 </div>
