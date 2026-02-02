@@ -54,19 +54,9 @@
     width="48%"
     alt="GitHub Streak"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jay-sambhu&show_icons=true&theme=radical&hide_border=true&border_radius=8&cache_seconds=1800"
-    width="48%"
-    alt="GitHub Stats"
-  />
+
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-sambhu&theme=radical&layout=compact&hide_border=true&border_radius=8&langs_count=10&cache_seconds=1800"
-    width="48%"
-    alt="Top Languages"
-  />
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=jay-sambhu&bg_color=0d1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true&radius=8"
     width="48%"
@@ -74,14 +64,8 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=jay-sambhu&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7"
-    width="95%"
-    alt="GitHub Trophies"
-  />
-</p>
 
+<a href="https://app.daily.dev/bob_marley_556"><img src="https://api.daily.dev/devcards/v2/fbVsKoauuEJh8UGQ6BIHO.png?r=tsn&type=default" width="356" alt="Aashish pokhrel's Dev Card"/></a>
 ---
 
 <div align="center">
@@ -94,26 +78,5 @@
 
 <div align="center">
 
-## 📊 GitHub Statistics
-
-</div>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jay-sambhu&show_icons=true&theme=radical&hide_border=true&count_private=true"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jay-sambhu&theme=radical&hide_border=true"
-    width="48%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-sambhu&layout=compact&theme=radical&hide_border=true"
-    width="48%"
-  />
-</p>
 
 
