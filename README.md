@@ -42,21 +42,24 @@
 
 
 
- <!-- Streak Stats with theme -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-sambhu&theme=radical" alt="jay-sambhu" /></p>
-
-<!-- GitHub Stats with theme -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-sambhu&show_icons=true&locale=en&theme=radical" alt="jay-sambhu" /></p>
-
-<!-- Top Languages with theme -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-sambhu&show_icons=true&locale=en&layout=compact&theme=radical" alt="jay-sambhu" /></p>
-
-<!-- Better layout structure -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-sambhu&theme=dark" alt="GitHub Streak" />
-</div>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=I'm+Bob+The+Coder!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=I'm+Bob+The+Coder!">
+    <img alt="I'm Bob The Coder!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=I'm+Bob+The+Coder!">
+  </picture>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jay-sambhu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-sambhu&layout=compact&theme=dark"/>
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-sambhu&theme=dark" alt="GitHub Streak Stats" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=jay-sambhu&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-sambhu&layout=compact&theme=dark" alt="Top Languages" />
+
 </div>
